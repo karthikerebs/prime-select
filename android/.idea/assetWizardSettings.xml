@@ -79,8 +79,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="$PROJECT_DIR$/../assets/app_icon.png" />
-                                                <entry key="scalingPercent" value="46" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/../assets/primeselectlogo.jpg" />
+                                                <entry key="scalingPercent" value="67" />
                                               </map>
                                             </option>
                                           </PersistentState>
